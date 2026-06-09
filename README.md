@@ -1,23 +1,51 @@
 # Amazon-Stock-Analysis-Dashboard
 
-📈 Amazon Stock Analysis Dashboard
+## 📌 Overview
+An interactive Excel dashboard that analyzes Amazon's historical stock performance using key stock market metrics such as Open, Close, High, Low, Volume, and Adjusted Close prices. The dashboard helps users identify trends and gain insights through dynamic visualizations.
 
-This project is an interactive Excel dashboard that analyzes Amazon's historical stock performance. The dashboard provides insights into stock prices, trading volume, and yearly growth trends using dynamic charts, KPIs, and slicers.
+---
 
-🔧 Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Data Visualization
-📊 Key Features
-Average Open, Close, High, and Low Prices
-Volume Analysis by Trading Day
-Open vs Close Price Comparison
-Monthly Average Adjusted Close Price
-High vs Low Analysis
-Yearly Stock Price Trends
-Interactive Day, Month, and Year Filters
-🎯 Objective
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Analysis
+- Data Visualization
 
-To transform raw Amazon stock market data into meaningful visual insights that help understand historical performance and market trends.
+---
+
+## 📊 Dashboard Highlights
+✔ Average Open, Close, High, and Low Prices
+
+✔ Trading Volume Analysis
+
+✔ Open vs Close Price Comparison
+
+✔ High vs Low Price Analysis
+
+✔ Monthly Average Adjusted Close Prices
+
+✔ Yearly Stock Performance Trends
+
+✔ Interactive Day, Month, and Year Filters
+
+---
+
+## 🎯 Project Objective
+To transform raw Amazon stock data into meaningful visual insights that support trend analysis and better understanding of stock market performance.
+
+---
+
+## 📷 Dashboard Preview
+![Amazon Stock Analysis Dashboard](dashboard.png)
+
+---
+
+## 📈 Key Insights
+- Amazon's stock price has shown significant long-term growth.
+- Trading activity remains consistent across weekdays.
+- Adjusted Close prices increased substantially after 2017.
+- Peak growth is visible during the 2020–2021 period.
+
+---
