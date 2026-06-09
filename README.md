@@ -38,7 +38,7 @@ To transform raw Amazon stock data into meaningful visual insights that support 
 ---
 
 ## 📷 Dashboard Preview
-![Amazon Stock Analysis Dashboard](dashboard.png)
+![Amazon Stock Analysis Dashboard](dashboard.jpeg)
 
 ---
 
